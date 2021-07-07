@@ -16,7 +16,7 @@ import { ExploreComponent } from './components/explore/explore.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
