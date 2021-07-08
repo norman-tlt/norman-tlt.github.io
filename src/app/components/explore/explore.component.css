@@ -1,0 +1,14 @@
+select {
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+  background-color: white;
+}
+
+select:hover {
+  background-color: inherit;
+}
+
+ul {
+  padding-left: 0px!important;
+}

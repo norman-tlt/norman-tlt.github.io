@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { ExploreComponent } from './components/explore/explore.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
