@@ -150,7 +150,7 @@ export class ExploreComponent implements OnInit {
     //this.githubService.getRepositories().subscribe((repo: any) => {
     this.githubService.getRepositories("JSON", "").then((repo: any) => {
       if (repo) {
-        repo.push({id: 0, name: "All"});
+        //repo.push({id: 0, name: "All"});
 
         let s = repo.filter(function (item: any) {
           return item.name === envSampleAppRepository;
