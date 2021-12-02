@@ -1,0 +1,82 @@
+[
+    {
+        "name": "LE910Cx_L",
+        "path": "LE910Cx_L",
+        "sha": "0620a496bc4d611a0acf7b62e92233ec658526d9",
+        "size": 0,
+        "url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/LE910Cx_L?ref=master",
+        "html_url": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/LE910Cx_L",
+        "git_url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/0620a496bc4d611a0acf7b62e92233ec658526d9",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/LE910Cx_L?ref=master",
+            "git": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/0620a496bc4d611a0acf7b62e92233ec658526d9",
+            "html": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/LE910Cx_L"
+        }
+    },
+    {
+        "name": "LE910Cx_X",
+        "path": "LE910Cx_X",
+        "sha": "19a14cc633fd60b38a61c397039e01bf414194ec",
+        "size": 0,
+        "url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/LE910Cx_X?ref=master",
+        "html_url": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/LE910Cx_X",
+        "git_url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/19a14cc633fd60b38a61c397039e01bf414194ec",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/LE910Cx_X?ref=master",
+            "git": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/19a14cc633fd60b38a61c397039e01bf414194ec",
+            "html": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/LE910Cx_X"
+        }
+    },
+    {
+        "name": "ME310G1-ME910G1-ML865G1",
+        "path": "ME310G1-ME910G1-ML865G1",
+        "sha": "63a25d95497eede5a1ec52c636d65f3f73159057",
+        "size": 0,
+        "url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/ME310G1-ME910G1-ML865G1?ref=master",
+        "html_url": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/ME310G1-ME910G1-ML865G1",
+        "git_url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/63a25d95497eede5a1ec52c636d65f3f73159057",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/ME310G1-ME910G1-ML865G1?ref=master",
+            "git": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/63a25d95497eede5a1ec52c636d65f3f73159057",
+            "html": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/ME310G1-ME910G1-ML865G1"
+        }
+    },
+    {
+        "name": "ME910C1-ML865C1-NE910C1",
+        "path": "ME910C1-ML865C1-NE910C1",
+        "sha": "fb1430587fe533d576ad0d8a9d9d0faa4010a128",
+        "size": 0,
+        "url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/ME910C1-ML865C1-NE910C1?ref=master",
+        "html_url": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/ME910C1-ML865C1-NE910C1",
+        "git_url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/fb1430587fe533d576ad0d8a9d9d0faa4010a128",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/ME910C1-ML865C1-NE910C1?ref=master",
+            "git": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/fb1430587fe533d576ad0d8a9d9d0faa4010a128",
+            "html": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/ME910C1-ML865C1-NE910C1"
+        }
+    },
+    {
+        "name": "pics",
+        "path": "pics",
+        "sha": "5c2cf5d88ea1f0c3ea64110a0d55bd20475c9570",
+        "size": 0,
+        "url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/pics?ref=master",
+        "html_url": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/pics",
+        "git_url": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/5c2cf5d88ea1f0c3ea64110a0d55bd20475c9570",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/contents/pics?ref=master",
+            "git": "https://api.github.com/repos/telit/IoT-AppZone-SampleApps/git/trees/5c2cf5d88ea1f0c3ea64110a0d55bd20475c9570",
+            "html": "https://github.com/telit/IoT-AppZone-SampleApps/tree/master/pics"
+        }
+    }
+]

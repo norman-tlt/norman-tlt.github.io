@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "gh-pages":  "--output-path docs --base-href /norman-tlt.github.io/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
